@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# *GitFight*
+  
+My version of **[Github Battle App](https://github.com/ReactTraining/react-fundamentals/tree/hosting)**, building with React!
 
 ## Available Scripts
 
